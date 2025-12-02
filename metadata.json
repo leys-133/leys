@@ -1,0 +1,7 @@
+{
+  "name": "Copy of روضة الطالب (Rawdat at-Talib)",
+  "description": "جدول متابعة يومي تفاعلي للطالب المسلم، يجمع بين تنظيم الصلوات والسنن، الأذكار، والمهام الدراسية، مع مرشد ذكي (Gemini) ومواقيت الصلاة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
